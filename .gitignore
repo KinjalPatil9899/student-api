@@ -1,0 +1,41 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# .env
+
+# React build output
+build/
+dist/
+
+# Logs
+logs/
+*.log
+
+# Optional OS junk
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Postman environment or workspace data
+.postman/
+
+# Coverage reports
+coverage/
+
+# production env files
+.env.production
+.env.development
+
+# Optional: Mac system files
+.AppleDouble
+.LSOverride
+
+# zip files or test video
+*.zip
+*.mp4
+*.webm
